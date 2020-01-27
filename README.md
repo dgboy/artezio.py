@@ -1,4 +1,4 @@
-# Homework for Python from Artezio
+# Homework Progress
 
 ## Lesson 1
 
