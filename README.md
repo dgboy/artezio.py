@@ -7,3 +7,7 @@
 ## Lesson 2
 
 **Done:** 5 / 5
+
+## Lesson 3
+
+**Done:** 1 / 5
